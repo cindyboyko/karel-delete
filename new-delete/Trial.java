@@ -17,7 +17,7 @@ public class Trial
     {
         // initialise instance variables
         x = 0;
-        System.out.println (sampleMethod(12));
+        System.out.println (sampleMethod(15));
     }
 
     /**
